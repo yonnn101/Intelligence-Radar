@@ -1,0 +1,37 @@
+[
+  {
+    "name": "CISA Cybersecurity Advisories",
+    "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "cybersecurity"
+  },
+  {
+    "name": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/feed/",
+    "category": "cybersecurity"
+  },
+  {
+    "name": "The Hacker News",
+    "url": "https://feeds.feedburner.com/TheHackersNews",
+    "category": "cybersecurity"
+  },
+  {
+    "name": "Google Security Blog",
+    "url": "https://blog.google/security/rss/",
+    "category": "cybersecurity"
+  },
+  {
+    "name": "TechCrunch Startups",
+    "url": "https://techcrunch.com/category/startups/feed/",
+    "category": "startup"
+  },
+  {
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "category": "ai"
+  },
+  {
+    "name": "Hacker News: Show HN",
+    "url": "https://hnrss.org/show",
+    "category": "startup"
+  }
+]

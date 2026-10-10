@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/telegram_user*
+*.session
+*.session-journal
+.pytest_cache/
